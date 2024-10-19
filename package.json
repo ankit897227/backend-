@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-class",
+  "version": "1.0.0",
+  "description": "noo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
